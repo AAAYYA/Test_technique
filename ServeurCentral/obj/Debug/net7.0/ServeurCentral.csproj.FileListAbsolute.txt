@@ -1,0 +1,17 @@
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/bin/Debug/net7.0/ServeurCentral
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/bin/Debug/net7.0/ServeurCentral.deps.json
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/bin/Debug/net7.0/ServeurCentral.runtimeconfig.json
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/bin/Debug/net7.0/ServeurCentral.dll
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/bin/Debug/net7.0/ServeurCentral.pdb
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ServeurCentral.csproj.AssemblyReference.cache
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ServeurCentral.GeneratedMSBuildEditorConfig.editorconfig
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ServeurCentral.AssemblyInfoInputs.cache
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ServeurCentral.AssemblyInfo.cs
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ServeurCentral.csproj.CoreCompileInputs.cache
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ServeurCentral.csproj.CopyComplete
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ServeurCentral.dll
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/refint/ServeurCentral.dll
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ServeurCentral.pdb
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ServeurCentral.genruntimeconfig.cache
+/home/Dami/delivery/Tek_3/Internship/Test/ServeurCentral/obj/Debug/net7.0/ref/ServeurCentral.dll
